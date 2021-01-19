@@ -13,15 +13,15 @@ class AboutMe extends Harnish.Bio {
 	   )
      }
 
-render (
-  return (
-	<div>
+    render (
+      return (
+	 <div>
 	    {getDailyKnowledge().map(item => {
 		return(
 		  {item.id} {item.name}
 		)
 	    })}
-	</div>
+	 </div>
 	)
     )
 }
