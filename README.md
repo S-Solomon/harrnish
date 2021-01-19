@@ -2,7 +2,7 @@
 import { Harnish, Bio } from "portfolio"
 
 class AboutMe extends Harnish.Bio {
-const getDailyKnowledge = () => {
+  const getDailyKnowledge = () => {
     return (
 		[
 		    id: 1, name: 'SCSS',
