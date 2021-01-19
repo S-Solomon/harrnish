@@ -30,4 +30,4 @@ render (
 export default AboutMe
 ```
 
-Hey y'all, I'm Harnish! Since 2016, I've been living and breathing design. As of now, out here coding modern user interfaces and helping to make this world a little better through design & code [@Codegrid](https://www.youtube.com/codegrid)
+## Hey y'all, I'm Harnish! Since 2016, I've been living and breathing design. As of now, out here coding modern user interfaces and helping to make this world a little better through design & code [@Codegrid](https://www.youtube.com/codegrid)
